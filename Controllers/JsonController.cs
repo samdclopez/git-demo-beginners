@@ -1,0 +1,1 @@
+// Controlador principal que guarda JSON completo y detalles
